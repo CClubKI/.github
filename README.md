@@ -1,6 +1,6 @@
-# Public Profile PAge
+# Public Profile Page
 
-- siehe README.md im porfile Ordner.
+- siehe README.md im profile Ordner.
 ---
 
 *Happy Coding! 🚀*
